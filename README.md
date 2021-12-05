@@ -8,4 +8,6 @@ After successfully guessing the number the program will tell you in how much ste
 
 ##Screenshot
 
-<img src="">
+This a demo of the game
+
+<img src="Screenshot (35).png">
