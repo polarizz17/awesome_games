@@ -6,7 +6,7 @@ if you guess a smaller number the program will tell you to input a higher number
 After successfully guessing the number the program will tell you in how much steps you guessed the number.
 
 
-##Screenshot
+# Screenshot
 
 This a demo of the game
 
